@@ -5,3 +5,5 @@ The goal is to attempt to recognize and categorize the emotion in short snippets
 We will be using librosa as our primary python package.
 
 More details can be found at: https://data-flair.training/blogs/python-mini-project-speech-emotion-recognition/.
+
+Install requirements with pip install -r requirements.txt.
